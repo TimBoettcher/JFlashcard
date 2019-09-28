@@ -24,4 +24,8 @@ The following features are currently supported:
 - editing the current flashcard,
 - deleting the current flashcard.
 
+## Installation
+
+You can either clone this repository to your local machine using `git pull https://github.com/TimBoettcher/JFlashcard.git` or download it as zip and unpack it somewhere. To integrate it into Eclipse, go to File -> import... -> select "existing project into workspace" -> click next -> choose path to the root directory of the project -> select the package "de.rwth_aachen.itc.jflashcard" -> select other options you consider helpful -> click finish. 
+
 **NOTE: The GUI of the flashcard is currently written in German. Localization is planned, but not implemented yet.**
